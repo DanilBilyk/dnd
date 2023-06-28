@@ -1,4 +1,4 @@
-package com.dnd.core;
+package com.charsheettrpg.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

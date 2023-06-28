@@ -1,4 +1,4 @@
-package com.dnd.core;
+package com.charsheettrpg.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
